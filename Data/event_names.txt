@@ -1,0 +1,16 @@
+#orden de eventos de izquierda (oldest) a derecha (youngest)
+
+T1	['E8', 'E7', 'E6', 'E5', 'E3']
+T3	['E5_T3', 'E4_T3']
+T2	['E1_T2']
+Spr	['TH3', 'TH2', 'TH1']
+Mob	['Gn', 'Fn','En','Dn', 'Cn', 'Bn', 'An']	
+Ann	['Es', 'Ds', 'Cs', 'Bs', 'As']
+Cam	['C2', 'C1']
+Cop ['CM9', 'CM8', 'CM7', 'CM6.2', 'CM6', 'CM5', 'CM4', 'CM3', 'CM2', 'CM1']
+Bit ['BS2', 'BS1']
+Wun	['W4', 'W3-W2', 'W1']
+
+
+impact of O2 in subsurface carbon cycles in faults.
+
