@@ -104,12 +104,11 @@ MUSIC/
 │
 └── Output/
 ```
-
-
-
 ## Citation
 
 If you use MUSIC in your research, please cite:
+
+[![DOI](https://zenodo.org/badge/1269885763.svg)](https://doi.org/10.5281/zenodo.20698918)
 
 Pinzón and Klinger. (2026), *A Probabilistic Framework for Correlation Assessment and Combination of Multisite Paleoseismic Data: Evidence for Accelerated Strain Release Along the Altyn Tagh Fault*.
 
