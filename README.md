@@ -1,4 +1,5 @@
-# MUSIC: MUlti SIte Integration of Chronologies
+# MUSIC: MUlti Site Integrated Chronologies
+
 
 MUSIC is a probabilistic framework for the correlation assessment and combination of multisite paleoseismic data. The methodology operates on event-age probability density functions (PDFs) to evaluate event-age correlations, combine correlated earthquake ages into unified chronologies, and estimate recurrence intervals through Monte Carlo simulations.
 
